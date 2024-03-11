@@ -11,7 +11,7 @@ import asyncio
 
 edit_mode = False
 # Token do seu bot
-TOKEN = 'MTIxNjM3MDE3MDgyMjM5ODAxMw.Ga84LX.fAZOwZ9RK2yp5qSHAOSpqxw166Y4IM-vzt-Cfo'
+TOKEN = 'seu-token'
 
 intents = discord.Intents.default()
 intents.messages = True
